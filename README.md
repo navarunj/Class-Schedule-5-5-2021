@@ -2,8 +2,11 @@
 
 |Time      | Activity |
 |----------|-------------|
-|0:00-0:15 | Code Review |
-|0:15-0:45 | Lecture: Primitives |
-|0:45-1:15 | Primitives Lab (Breakout Rooms) |
-|1:15-2:00 | Discussion of Primitives Lab (Back to Main Room) |
+|0:00-0:15 | Reflections on Learning |
+|0:15-0:30 | Code Review |
+|0:30-1:00 | Lecture: Primitives |
+|1:00-1:30 | Primitives Lab (Breakout Rooms) |
+|1:30-2:00 | Discussion of Primitives Lab (Back to Main Room) |
 |2:00-2:30 | Lecture: Conditionals |
+|2:30-2:55 | Lecture: Operators |
+|2:55-3:00 | Wrap-up |
