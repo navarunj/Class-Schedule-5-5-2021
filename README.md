@@ -2,8 +2,7 @@
 
 |Time      | Activity |
 |----------|-------------|
-|0:00-0:15 | Reflections on Learning |
-|0:15-0:30 | Code Review |
+|0:00-0:30 | Code Review |
 |0:30-1:00 | Lecture: Primitives |
 |1:00-1:30 | Primitives Lab (Breakout Rooms) |
 |1:30-2:00 | Discussion of Primitives Lab (Back to Main Room) |
